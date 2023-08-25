@@ -40,7 +40,7 @@ application > lib-level1 > lib-level2
 
 <summary>For application</summary>
 
-`jackson-core` is in `compile` scope.
+`jackson-core` is in `compile` scope again, automatically.
 
 ```
 [INFO] org.example:application:jar:1.0-SNAPSHOT
